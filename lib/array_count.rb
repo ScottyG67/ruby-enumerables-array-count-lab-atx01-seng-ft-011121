@@ -5,6 +5,7 @@ def count_strings(array)
   string.is_s?
   count +=1
 end
+count
 end
 
 def count_empty_strings(array)
